@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         private static void Main(string[] args)
         {
+            Console.WriteLine("Starting");
             Console.WriteLine(CreateMessage());
         }
 
